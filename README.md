@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning  Data Science<br>👯 I’m looking to collaborate on machine learning  Projects<br>📫 How to reach me shreyashsingh865@gmail.com<br><br>
+🌱 I’m currently learning  Data Science<br>👯 I’m looking to collaborate on machine learning  Projects<br>📫 How to reach me shreyashsingh865@gmail.com<br>
 
 
 ## 🌐 Socials:
