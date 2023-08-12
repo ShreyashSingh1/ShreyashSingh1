@@ -1,7 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Data Science<br>👯 I’m looking to collaborate on machine learning Projects<br>📫 How to reach me shreyashsingh865@gmail.com
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.___shreyash___._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/shreyashsingh865) 
 
