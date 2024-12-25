@@ -6,8 +6,6 @@
 
 Hi! I’m Shreyash Singh. I’m passionate about building smart AI systems using Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). I love solving real-world problems with technology, making it both useful and fun. From fine-tuning models to creating memes, I enjoy bringing creativity to AI!
 
----
-
 ## 🚀 About Me  
 
 - **What I do**: Build AI systems that solve problems and are easy to use  
