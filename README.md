@@ -43,5 +43,5 @@ A system that retrieves useful information and generates accurate responses.
 - **RAG System Developer**: Built scalable systems that improve AI performance.  
 
 ---
-> **"Technology should make life better and be fun to work with."**
+> **"Anything that can be imagined can be programmed."**
 ---
