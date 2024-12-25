@@ -61,7 +61,7 @@ A fun platform that uses AI to create memes based on trends and user input.
 
 ## 📫 Let’s Connect  
 
-- **LinkedIn**: [Shreyash Singh](https://linkedin.com/in/shreyashsingh)  
+- **LinkedIn**: [Shreyash Singh](https://linkedin.com/in/shreyashsingh865)  
 - **GitHub**: [shreyashsingh1](https://github.com/shreyashsingh1)  
 - **Twitter**: [@shreyash_minds](https://twitter.com/shreyash865)  
 
