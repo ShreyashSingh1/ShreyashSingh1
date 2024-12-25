@@ -27,7 +27,7 @@ Hi! I’m Shreyash Singh. I’m passionate about creating smart AI systems using
 ## 🌟 Notable Projects  
 
 ### **Memish** 
-Memish is a one-click meme generator tool. You can create memes with just one click, and my AI picks the best template and adds the text. You can even upload images or videos, and my AI will work its magic to turn them into fun, engaging memes. It's fast, easy, and super fun!
+Memish is a one-click meme generator tool. With just one user prompt, you can create memes. My AI will pick the best template, add the text, and even work its magic on any images or videos you upload, transforming them into fun, engaging memes. It’s fast, easy, and super fun!
 
 ### **RAG System** 🔍  
 A system that retrieves useful information and generates accurate responses.  
