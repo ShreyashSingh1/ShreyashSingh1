@@ -1,7 +1,7 @@
 
 # 👋 Shreyash Singh  
 
-**AI Developer | ML, DL & NLP Expert**  
+**AI Developer | ML, DL & NLP Specialist**  
 
 Hi! I’m Shreyash Singh. I’m passionate about creating smart AI systems using Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). I love using technology to solve real-world problems in a fun and creative way. Whether it’s fine-tuning models or making memes, I enjoy making AI more exciting!
 
