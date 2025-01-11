@@ -1,47 +1,51 @@
-
 # 👋 Shreyash Singh  
-
 **AI Developer | ML, DL & NLP Specialist**  
-
-Hi! I’m Shreyash Singh. I’m passionate about creating smart AI systems using Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). I love using technology to solve real-world problems in a fun and creative way. Whether it’s fine-tuning models or making memes, I enjoy making AI more exciting!
-
----
-
-## 🚀 About Me  
-
-- **What I do**: Build AI systems that solve real problems  
-- **Skills**: Deep Learning, Machine Learning, NLP, and Generative AI  
-- **Fun Fact**: I make tech more fun with memes!  
+Hi! I'm Shreyash, and I love building AI systems that solve real problems. Whether I'm training models or making memes, I enjoy making AI more fun and useful. I've got a knack for taking complex tech and turning it into tools that actually help people.
 
 ---
-
-## 🛠️ Skills & Expertise  
-
-- **Deep Learning (DL)**: Building and training neural networks  
-- **Machine Learning (ML)**: Creating models to solve real-world challenges  
-- **Natural Language Processing (NLP)**: Teaching machines to understand and generate text  
-- **Generative AI**: Making things like text, images, and memes  
+## 🎯 What I Do
+- **Build AI Solutions**: Create smart systems that solve everyday problems
+- **Specialize in AI**: Expert in machine learning, deep learning, and language AI
+- **Make Tech Fun**: Turn complex AI into user-friendly tools
 
 ---
-
-## 🌟 Notable Projects  
-
-### **Memish** 
-Memish is a one-click meme generator tool. With just one user prompt, you can create memes. My AI will pick the best template, add the text, and even work its magic on any images or videos you upload, transforming them into fun, engaging memes. It’s fast, easy, and super fun!
-
-### **RAG System** 🔍  
-A system that retrieves useful information and generates accurate responses.  
-- **Retriever**: Quickly finds the most relevant data  
-- **Generator**: Uses that data to create helpful answers  
-- **Use Cases**: Chatbots, virtual assistants, and FAQs.
----
-
-## 🏆 Achievements  
-
-- **10-Time Hackathon Winner** 🏅: Awarded for my innovative AI solutions in multiple hackathons.  
-- **Fine-Tuning Expert**: Specialized in improving AI models for specific tasks.  
-- **RAG System Developer**: Built scalable systems that improve AI performance.  
+## 🛠️ Skills  
+- **Deep Learning**: Building smart AI systems that learn from examples
+- **Machine Learning**: Creating models that find patterns and make predictions
+- **Language AI**: Teaching computers to understand and write like humans
+- **Creative AI**: Making tools that generate text, images, and memes
 
 ---
-> **"Anything that can be imagined can be programmed."**
+## 🚀 My Best Projects  
+
+### **Memish: Smart Meme Maker** 
+A fun tool that turns your ideas into memes with just one click. Tell it what you want, and it picks the perfect template, adds your text, and makes a meme that's ready to share. It's simple, quick, and actually works!
+- Picks the right meme template automatically
+- Places text in the best spots
+- Works with both images and videos
+- Makes meme-making super easy
+
+### **AutoTuneAI** 🎯
+A popular AI tool that went viral with 170,000+ views on LinkedIn! It helps anyone improve AI models without needing to code:
+- Simple interface anyone can use
+- Automatically sets up the AI for best results
+- Works with popular AI models
+- Saves tons of time and effort
+
+### **DocuQueryAI** 🔍
+A smart document helper that reads and understands business reports and research papers:
+- Trained on special business and research content using LLaMA 2
+- Answers questions about uploaded PDFs naturally
+- Uses smart search (Pinecone, FAISS) to find info quickly
+- Can check Wikipedia when needed for extra knowledge
+- Built with Python, LangChain, OpenAI, and other cool tools
+
 ---
+## 🏆 Cool Things I've Done  
+- **Won 10 Hackathons** 🏅: Created winning AI solutions in coding competitions
+- **AI Training Expert**: Really good at making AI models work better
+- **Built Tools That Scale**: Created AI systems that help lots of people
+- **Problem Solver**: Turn tricky problems into working solutions
+
+---
+> **"Making AI simple and fun for everyone"**
